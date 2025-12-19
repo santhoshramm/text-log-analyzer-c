@@ -1,0 +1,5 @@
+error user login failed
+info user logged in
+warning memory usage high
+error database connection failed
+info user logged out
